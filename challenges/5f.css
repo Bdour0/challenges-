@@ -1,0 +1,26 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .Num1 {
+    
+    font-size: 28px;
+    margin-bottom: 5px;
+    
+  }
+  .USD{
+font-size: 15px;
+color: #474545;
+font-weight: 500;
+  }
+  .Num2{
+    color: #239e23;
+    margin-bottom: 5px;
+  }
+  .Hours{
+    color: #6c6a6a;
+  }
+  .Num3{
+    color: rgb(217, 41, 41);
+  }
